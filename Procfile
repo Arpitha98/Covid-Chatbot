@@ -1,0 +1,1 @@
+web: gunicorn chat22:app
